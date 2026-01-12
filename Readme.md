@@ -150,9 +150,6 @@ python Ease.py
 
 * **Solution:** Check the file names in the `caps` dictionary within `Ease.py` to match your local `.mp4` files.
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Acknowledgments
 
