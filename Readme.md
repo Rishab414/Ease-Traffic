@@ -31,6 +31,10 @@ The project implements the **YOLOv8** object detection model combined with the *
 ## Output
 <img width="1598" height="922" alt="Screenshot 2026-01-12 224305" src="https://github.com/user-attachments/assets/49b9a6b1-bee7-4814-88be-1bcb4affd7b0" />
 
+
+
+
+
 <img width="1600" height="916" alt="Screenshot 2026-01-12 224246" src="https://github.com/user-attachments/assets/6547fff5-e910-41cd-bb17-6b728b3211a7" />
 
 
